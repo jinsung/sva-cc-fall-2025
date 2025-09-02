@@ -1,7 +1,7 @@
 # Creative Computing
 - Fall, 2025
 - Instructor: Jin Sung Yoo - ujinsung@gmail.com | jyoo6@sva.edu
-- Time: 9/4/2025 - 12/16/25 / Thursday, 6:30 PM - 9:20 PM
+- Time: 9/4/25 - 12/16/25 / Thursday, 6:30 PM - 9:20 PM
 - Location: 209 E 23 St, 605 Studio
 
 ## DESCRIPTION
