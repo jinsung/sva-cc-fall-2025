@@ -12,6 +12,7 @@
 - [p5.js reference](http://p5js.org/reference)
 - [The Coding Train - Shiffman's p5.js tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 - [Learning Processing](http://learningprocessing.com/)
+- [The Nature of Code](https://www.amazon.com/Nature-Code-Daniel-Shiffman/dp/1718503709/?_encoding=UTF8&pd_rd_w=h39Vp&content-id=amzn1.sym.a7785aa2-ac28-4769-b3eb-cff7b9738627&pf_rd_p=a7785aa2-ac28-4769-b3eb-cff7b9738627&pf_rd_r=143-1258788-1101515&pd_rd_wg=RL7sU&pd_rd_r=6ed64cec-393a-4077-8f15-ebd0a5ab2c8c&ref_=aufs_ap_sc_dsk)
 
 ## COURSE REQUIREMENTS
 * Attendance and class participation - 30%
