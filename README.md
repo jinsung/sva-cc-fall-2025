@@ -39,6 +39,7 @@
   * [Who am I?](https://docs.google.com/document/d/1Wm14VwFYoSrncqNhtY4768RcBm4wBJdym1-IN7nYA7o/edit)
     * [Works](https://vimeo.com/manage/videos/594718903)
   * Resource / Syllabus
+  * [No Background](https://editor.p5js.org/jinsung/sketches/V6u5fiLJq)
     
 ### Week 2 -- Shape / Variables
   * [John Maeda Ted 2012](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders)
@@ -57,14 +58,12 @@
     * Built-in or User-defined
     * Declare, Initialize, and Use
   * [Mouse Position](https://editor.p5js.org/jinsung/sketches/6sEwURA2z)
-  * [Line Drawing](https://editor.p5js.org/jinsung/sketches/-WTijUk-3)
-  * [No Background](https://editor.p5js.org/jinsung/sketches/V6u5fiLJq)
   * [Animation / Variable](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
     * Type of the variable (Number, String, Boolean)
     * Scope
   * [Boolean Operation](https://editor.p5js.org/jinsung/sketches/HYDqGeOFv)
   * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
-  * [Pick next week presenters](https://editor.p5js.org/jinsung/sketches/16fGAon8n)
+  * [Line Drawing](https://editor.p5js.org/jinsung/sketches/-WTijUk-3)
   * Homework - bouncing ball!
 
 ### Week 3 - Conditions
