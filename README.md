@@ -79,11 +79,11 @@
     * if / else / else if
  * [Random function](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
+ * [Lerp function](https://editor.p5js.org/jinsung/sketches/5FRaaBZFY)
+ * [Easing with lerp](https://editor.p5js.org/jinsung/sketches/B5o4bK7_t)
 
 ### Week 4 -- Events / Loop
  * [Kyle McDonald](https://kylemcdonald.net/)
- * [Lerp function](https://editor.p5js.org/jinsung/sketches/5FRaaBZFY)
- * [Easing with lerp](https://editor.p5js.org/jinsung/sketches/B5o4bK7_t)
  * [Events](https://editor.p5js.org/jinsung/sketches/YBI3yPVD1)
    * Built-in variables
    * Callback functions
