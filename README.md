@@ -87,6 +87,10 @@
  * [Events](https://editor.p5js.org/jinsung/sketches/YBI3yPVD1)
    * Built-in variables
    * Callback functions
+ * Loop
+   * Initialization (e.g. `let i = 0;`)
+   * Condition (e.g. `i < 100`)
+   * Update (e.g. `i = i + 1`)
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
