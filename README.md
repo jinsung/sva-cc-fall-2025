@@ -84,9 +84,6 @@
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
  * [Lerp function](https://editor.p5js.org/jinsung/sketches/5FRaaBZFY)
  * [Easing with lerp](https://editor.p5js.org/jinsung/sketches/B5o4bK7_t)
- * [Events](https://editor.p5js.org/jinsung/sketches/YBI3yPVD1)
-   * Built-in variables
-   * Callback functions
  * Loop
    * Initialization (e.g. `let i = 0;`)
    * Condition (e.g. `i < 100`)
@@ -102,6 +99,9 @@
    * [Song Maker](https://musiclab.chromeexperiments.com/Song-Maker)
    * [Shared Piano](https://musiclab.chromeexperiments.com/Shared-Piano/#dtCBOdDWj)
    * [Scan Sequencer](https://jeonghopark.github.io/scanseqjs/)
+ * [Events](https://editor.p5js.org/jinsung/sketches/YBI3yPVD1)
+   * Built-in variables
+   * Callback functions
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Map function](https://editor.p5js.org/jinsung/sketches/zp-0lETu5)
  * [Bezier](https://editor.p5js.org/jinsung/sketches/ILp1sOp6p)
