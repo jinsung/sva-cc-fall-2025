@@ -109,8 +109,6 @@
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * Debuger
- * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
- * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
 
 ### Week 6 -- Nested Loop / 2D Transformation
  * Zach Lieberman    
@@ -118,17 +116,17 @@
     * [Ink Space](https://experiments.withgoogle.com/ink-space)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
+ * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
+ * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
  * curveVertex()[1](https://editor.p5js.org/jinsung/sketches/P7C3uePKh), [2](https://editor.p5js.org/jinsung/sketches/z6nWuK-u3)
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Translate / Rotate / Scale
     * [Push / Pop](https://editor.p5js.org/jinsung/sketches/l5wq6xeS2)
- * [Homework](https://processing.org/tutorials/transform2d)
 
 ### Week 7 -- Function / Clock
  * [DIA](https://dia.tv/)
     * [KIKK Festival](https://www.youtube.com/watch?v=JVS-AO4yqA4)
- * Presenter: Kevin
  * Function
     * Function basic
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
@@ -138,7 +136,6 @@
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
     * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
- * Midterm
 
 ### Week 8 -- Recursion / Sound
  * [Refik Anadol](https://refikanadol.com/)
@@ -149,12 +146,9 @@
  * Sound Viz
    * [Sound file](https://drive.google.com/file/d/1sambpmU6kbZ8bfxDMcTp9bimarLSQZCJ/view?usp=sharing)
  * [Recursion](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
+ * Midterm
 
-### Week 9
- * TBD
-
-### Week 10 -- Midterm / Object / Array
- * Midterm presentation
+### Week 9 -- Object / Array
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * class & constructor
    * contructor arguments
@@ -169,6 +163,10 @@
    * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
    * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
    * [Interactive Objects](https://editor.p5js.org/jinsung/sketches/r3iRZxFPs)
+
+### Week 10 -- Midterm 
+ * Midterm presentation
+
 
 ### Week 11 -- Putting Together, Kinetic Typography
  * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
