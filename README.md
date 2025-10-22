@@ -149,11 +149,16 @@
  * Midterm
 
 ### Week 9 -- Object / Array
+ * Midterm presentation
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * class & constructor
    * contructor arguments
    * keywords: new, this
    * Principles: Inheritance, Encapsulation, Polymophism, Abstraction
+
+### Week 10 -- Array, Physics 
+ * [Robert Hodgin](http://roberthodgin.com/)
+ * [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
    * What is an Array
    * Define and assign an array
@@ -163,31 +168,21 @@
    * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
    * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
    * [Interactive Objects](https://editor.p5js.org/jinsung/sketches/r3iRZxFPs)
+ * Vector
+   * Vector vs Point
+   * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
+   * [Force = Acceleration x Mass](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
+   * [Gravity](https://editor.p5js.org/jinsung/sketches/L7CliUcrQ)
+   * [Multiple Forces](https://editor.p5js.org/jinsung/sketches/KM9Ksfhn1)
+   * [Friction](https://editor.p5js.org/jinsung/sketches/9-jH3bINn)
 
-### Week 10 -- Midterm 
- * Midterm presentation
-
-
-### Week 11 -- Putting Together, Kinetic Typography
+### Week 11 -- Particle System
  * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
- * [Putting Together](https://docs.google.com/document/d/1HONcIQmerhhLLn1MdpNw_jtPvBageGE33adoKJ3Abeo/edit?usp=sharing)
-   * Idea - Start with an idea
-   * Parts - Break the idea down into smaller parts
-   * Integration - Take all the classes from Parts and integrate them into one larger algorithm
- * Text
-   * String
-     * Exercise: Coordinate numbers on bouncing circles
- * Text
-   * String
-   * Adding Files and Fonts
- * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/wvY9oi8bp)
- * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
- * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
- * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
- * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
- * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
- * [Letter Animation 3-1](https://editor.p5js.org/jinsung/sketches/_j2Xx0VqV)
- * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
+ * [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
+ * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
+ * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
+ * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
+ * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
  
 ### Week 12 -- Pixels / Webcam
  * [ml5](https://ml5js.org/)
