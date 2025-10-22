@@ -137,7 +137,7 @@
     * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
 
-### Week 8 -- Recursion / Sound
+### Week 8 -- Sound Viz / Object
  * [Refik Anadol](https://refikanadol.com/)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
  * Sound Viz
@@ -146,19 +146,15 @@
  * Sound Viz
    * [Sound file](https://drive.google.com/file/d/1sambpmU6kbZ8bfxDMcTp9bimarLSQZCJ/view?usp=sharing)
  * [Recursion](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
- * Midterm
-
-### Week 9 -- Object / Array
- * Midterm presentation
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * class & constructor
    * contructor arguments
    * keywords: new, this
    * Principles: Inheritance, Encapsulation, Polymophism, Abstraction
+ * Midterm
 
-### Week 10 -- Array, Physics 
- * [Robert Hodgin](http://roberthodgin.com/)
- * [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
+### Week 9 -- Array
+ * Midterm presentation
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
    * What is an Array
    * Define and assign an array
@@ -168,6 +164,10 @@
    * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
    * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
    * [Interactive Objects](https://editor.p5js.org/jinsung/sketches/r3iRZxFPs)
+
+### Week 10 -- Physics 
+ * [Robert Hodgin](http://roberthodgin.com/)
+ * [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
  * Vector
    * Vector vs Point
    * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
