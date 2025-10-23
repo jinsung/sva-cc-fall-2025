@@ -146,7 +146,9 @@
    * [Sound file](https://drive.google.com/file/d/1sambpmU6kbZ8bfxDMcTp9bimarLSQZCJ/view?usp=sharing)
    * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
- * [Recursion](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
+ * Recursion
+   * [Factorial](https://editor.p5js.org/jinsung/sketches/mKg6MmC4z)
+   * [Tree](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * class & constructor
    * contructor arguments
