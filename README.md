@@ -141,10 +141,11 @@
  * [Refik Anadol](https://refikanadol.com/)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
  * Sound Viz
+   * Preload
+   * Custom Shape
+   * [Sound file](https://drive.google.com/file/d/1sambpmU6kbZ8bfxDMcTp9bimarLSQZCJ/view?usp=sharing)
    * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
- * Sound Viz
-   * [Sound file](https://drive.google.com/file/d/1sambpmU6kbZ8bfxDMcTp9bimarLSQZCJ/view?usp=sharing)
  * [Recursion](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * class & constructor
