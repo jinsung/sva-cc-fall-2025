@@ -137,7 +137,7 @@
     * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
 
-### Week 8 -- Sound Viz / Object
+### Week 8 -- Sound Viz
  * [Refik Anadol](https://refikanadol.com/)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
  * Sound Viz
@@ -150,15 +150,15 @@
  * Recursion
    * [Factorial](https://editor.p5js.org/jinsung/sketches/mKg6MmC4z)
    * [Tree](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
+ * Midterm
+
+### Week 9 --  Object / Array
+ * Midterm presentation
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * class & constructor
    * contructor arguments
    * keywords: new, this
    * Principles: Inheritance, Encapsulation, Polymophism, Abstraction
- * Midterm
-
-### Week 9 -- Array
- * Midterm presentation
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
    * What is an Array
    * Define and assign an array
