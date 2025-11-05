@@ -21,7 +21,7 @@
 * Homework #1 [1](https://editor.p5js.org/S00Lim/sketches/rSHpnU0mL) [2](https://editor.p5js.org/S00Lim/sketches/J1B-yWKrK)
 * [Homework #2](https://editor.p5js.org/S00Lim/sketches/SIYUa4JLu)
 * [Homework #3](https://editor.p5js.org/S00Lim/sketches/SvyfsPPeU)
-* Midterm [1](https://editor.p5js.org/S00Lim/sketches/imv_7U3Gf) [2]([https://editor.p5js.org/zhuang21-unequaled/sketches/403aCz8dE](https://editor.p5js.org/S00Lim/sketches/VmaMyQGKV))
+* Midterm [1](https://editor.p5js.org/S00Lim/sketches/imv_7U3Gf) [2](https://editor.p5js.org/S00Lim/sketches/VmaMyQGKV)
 
 ### Kevin J. Park
 * Homework #1 [1](https://editor.p5js.org/kpark30/sketches/WVwhIUoAW) [2](https://editor.p5js.org/kpark30/sketches/ZtqfhRgdT)
