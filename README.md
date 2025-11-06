@@ -164,14 +164,15 @@
    * Define and assign an array
    * Getting element value
    * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
+
+### Week 10 -- Array / Physics 
+ * [Robert Hodgin](http://roberthodgin.com/)
+ * [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
+ * Array
    * [Snake](https://editor.p5js.org/jinsung/sketches/G7-QROTO6)
    * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
    * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
    * [Interactive Objects](https://editor.p5js.org/jinsung/sketches/r3iRZxFPs)
-
-### Week 10 -- Physics 
- * [Robert Hodgin](http://roberthodgin.com/)
- * [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
  * Vector
    * Vector vs Point
    * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
