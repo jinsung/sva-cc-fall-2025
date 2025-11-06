@@ -26,6 +26,7 @@
 ### Kevin J. Park
 * Homework #1 [1](https://editor.p5js.org/kpark30/sketches/WVwhIUoAW) [2](https://editor.p5js.org/kpark30/sketches/ZtqfhRgdT)
 * [Homework #2](https://editor.p5js.org/kpark30/sketches/qmgkH7P1g)
+* [Midterm](https://editor.p5js.org/kpark30/sketches/DyidRqK5N)
 
 ### Xinke Wang
 * [Homework #1](https://editor.p5js.org/xwang99/sketches/rQHpSnH68)
