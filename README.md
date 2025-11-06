@@ -165,14 +165,26 @@
    * Getting element value
    * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
 
-### Week 10 -- Array / Physics 
- * [Robert Hodgin](http://roberthodgin.com/)
- * [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
+### Week 10 -- Array / Image 
+ * [ml5](https://ml5js.org/)
+ * [Bodypose](https://docs.ml5js.org/#/reference/bodypose)
  * Array
    * [Snake](https://editor.p5js.org/jinsung/sketches/G7-QROTO6)
    * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
    * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
    * [Interactive Objects](https://editor.p5js.org/jinsung/sketches/r3iRZxFPs)
+ * Image & Pixels
+   * [image.png](https://assets.editor.p5js.org/57f190b64b5aa64a6b103ed4/078306ee-3993-4e53-9664-b46b4c3876d9.png)
+   * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
+   * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
+   * [Ascii Art](https://editor.p5js.org/jinsung/sketches/EOUDJMDbn)
+   * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
+   * [Webcam](https://editor.p5js.org/jinsung/sketches/DrVtRhw4R)
+   * [Webcam+Ascii](https://editor.p5js.org/jinsung/sketches/Dzsh-q9BA)
+
+### Week 11 -- Physics
+ * [Robert Hodgin](http://roberthodgin.com/)
+ * [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
  * Vector
    * Vector vs Point
    * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
@@ -180,25 +192,14 @@
    * [Gravity](https://editor.p5js.org/jinsung/sketches/L7CliUcrQ)
    * [Multiple Forces](https://editor.p5js.org/jinsung/sketches/KM9Ksfhn1)
    * [Friction](https://editor.p5js.org/jinsung/sketches/9-jH3bINn)
-
-### Week 11 -- Particle System
+ 
+### Week 12 -- Pixels / Webcam
  * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
  * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
  * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
  * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
- 
-### Week 12 -- Pixels / Webcam
- * [ml5](https://ml5js.org/)
- * [Bodypose](https://docs.ml5js.org/#/reference/bodypose)
- * [image.png](https://assets.editor.p5js.org/57f190b64b5aa64a6b103ed4/078306ee-3993-4e53-9664-b46b4c3876d9.png)
- * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
- * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
- * [Ascii Art](https://editor.p5js.org/jinsung/sketches/EOUDJMDbn)
- * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
- * [Webcam](https://editor.p5js.org/jinsung/sketches/DrVtRhw4R)
- * [Webcam+Ascii](https://editor.p5js.org/jinsung/sketches/Dzsh-q9BA)
  
 ### Week 13 -- 1:1 
 
