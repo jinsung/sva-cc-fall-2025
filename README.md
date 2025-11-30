@@ -202,7 +202,9 @@
  * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
  
-### Week 13 -- 1:1 - https://docs.google.com/spreadsheets/d/1XH-w1b3oBM1sm01xphkka8o9AEE29IzV_ck_wtUszBw/edit?gid=0#gid=0
+### Week 13 -- 1:1
+ * [Schedule Sheet](https://docs.google.com/spreadsheets/d/1XH-w1b3oBM1sm01xphkka8o9AEE29IzV_ck_wtUszBw/edit?gid=0#gid=0)
+ * [Zoom meeting link](https://sva.zoom.us/j/87541358067)
 
 ### Week 14 -- 1:1 
 
