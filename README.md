@@ -207,6 +207,7 @@
  * [Zoom meeting link](https://sva.zoom.us/j/87541358067)
 
 ### Week 14 -- 1:1 
+ * [Schedule Sheet](https://docs.google.com/spreadsheets/d/1T5IS3B2jspJAEW7lhmW8oAOXhRuCe2SWyvYbNaM0qD0/edit?gid=0#gid=0)
 
 ### Week 15 -- Final Project Presentation
 
